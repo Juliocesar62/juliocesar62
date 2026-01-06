@@ -5,8 +5,6 @@ Atualmente estudo e desenvolvo projetos voltados para **APIs REST**, **bancos de
 
 Utilizo **Linux (Ubuntu)** como ambiente principal e busco sempre entender os conceitos por trás das tecnologias, não apenas utilizá-las.
 
-📌 **Objetivo:** oportunidade de **estágio ou vaga júnior** em Desenvolvimento Back-end.
-
 ---
 
 ### 🚀 Tecnologias
