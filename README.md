@@ -1,7 +1,7 @@
 ## Olá, eu sou o Júlio César 👋
 
-🎓 **Desenvolvedor Back-end em formação**, com foco em **Java** e no ecossistema **Spring**.  
-Atualmente estudo e desenvolvo projetos voltados para **APIs REST**, **bancos de dados SQL** e **boas práticas de programação**.
+🎓 **Desenvolvedor Full-stack em formação**, com foco em **Java** e no ecossistema **Spring**, Utilizo também VUE e React para integração com front.  
+Atualmente estudo e desenvolvo projetos voltados para **APIs REST**, **bancos de dados SQL**, **Componentização** e **boas práticas de programação**.
 
 Utilizo **Linux (Ubuntu)** como ambiente principal e busco sempre entender os conceitos por trás das tecnologias, não apenas utilizá-las.
 
@@ -15,11 +15,13 @@ Utilizo **Linux (Ubuntu)** como ambiente principal e busco sempre entender os co
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="50"/>
 </div>
 
-#### Front-end (básico)
+#### Front-end
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/react/react-original.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/vuejs/vuejs-original.svg" width="40"/>
 </div>
 
 #### Ferramentas
@@ -33,9 +35,7 @@ Utilizo **Linux (Ubuntu)** como ambiente principal e busco sempre entender os co
 
 ### 📂 Projetos
 - 🔹 APIs REST com Java e Spring (CRUD, organização em camadas)
-- 🔹 Projetos de estudo focados em POO, SQL e integração front-end básica
-
-*(em evolução 🚧)*
+- 🔹 Projetos de estudo focados em POO, SQL e integração front-end
 
 ---
 
